@@ -13,6 +13,9 @@ Features:
     - Multiple figure styles
     
 ## Intructions to download and run:
+
+Note: If you do not have python 3 installed, download and install it from here: https://www.python.org/downloads/ . The install matplotlib following the instructions here https://matplotlib.org/stable/users/installing.html
+
 - Windows
   - Download the repository
     - Clone this repository using "git clone https://github.com/v-i-n-a-y/PSM---Punnett-Square-Maker" or downlaod as a zip file and extract it

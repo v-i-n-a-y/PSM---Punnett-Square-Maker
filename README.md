@@ -48,6 +48,12 @@ Note: If you do not have python 3 installed, download and install it from here: 
       - Enter "Q" to quit else program will loop
       
 Note: Genetic sequences uses "/" to separate alleles on a chromosome
+## Terms of use
+
+We only request that you cite our work when but not limited to using figures and tables produced by it, when making modifications or redistrbuting it in any form or fashion:
+ - Williams V., Lambert J. (2021). PSM - Punnett Square Make (version 1.0). URL: https://github.com/v-i-n-a-y/PSM---Punnett-Square-Maker
+ - Bibtex: *@misc{Williams_PSM__Punnett_2021, author = {Williams, Vinay and Lambert, Jabari}, month = {8}, title = {PSM - Punnett Square Make}, url = {https://github.com/v-i-n-a-y/PSM---Punnett-Square-Maker}, year = {2021}}*
+
 
 ## AUTHOR INFORMATION
 

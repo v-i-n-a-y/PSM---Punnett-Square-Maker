@@ -1,6 +1,6 @@
 # PSM - Punnett Square Maker
 
-This software is intended to support anyone attempting to make custom punnett squares. It is implemented in python 3 and is self contained meaning there is no need for installing the packages which are used. 
+This software is intended to support anyone attempting to make punnett squares especially for academic writings. It is implemented in python 3 and is self contained meaning there is no need for installing the packages which are used. 
 
 Features:
 - Punnet Square figure

@@ -51,24 +51,19 @@ Note: Genetic sequences uses "/" to separate alleles on a chromosome
 ## Terms of use
 
 We only request that you cite our work when but not limited to using figures and tables produced by it, when making modifications or redistrbuting it in any form or fashion:
- - Williams V., Lambert J. (2021). PSM - Punnett Square Make (version 1.0). URL: https://github.com/v-i-n-a-y/PSM---Punnett-Square-Maker
- - Bibtex: *@misc{Williams_PSM__Punnett_2021, author = {Williams, Vinay and Lambert, Jabari}, month = {8}, title = {PSM - Punnett Square Make}, url = {https://github.com/v-i-n-a-y/PSM---Punnett-Square-Maker}, year = {2021}}*
+ - Williams V.. (2021). PSM - Punnett Square Make (version 1.0). URL: https://github.com/v-i-n-a-y/PSM---Punnett-Square-Maker
+ - Bibtex: *@misc{Williams_PSM__Punnett_2021, author = {Williams, Vinay}, month = {8}, title = {PSM - Punnett Square Make}, url = {https://github.com/v-i-n-a-y/PSM---Punnett-Square-Maker}, year = {2021}}*
 
 
 ## AUTHOR INFORMATION
 
-Created by Vinay Williams and Jabari Lambert
-
-Contact Information:
-
-- Vinay  : vinaywilliams00@gmail.com
-- Jabari : jabarilambert@icloud.com
+Created by Vinay Williams - vinaywilliams00@gmail.com
 
 ## LICENSE
 
 MIT LICENSE
 
-Copyright 2021 Vinay Williams and Jabari Lambert
+Copyright 2021 Vinay Williams
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
